@@ -1,0 +1,1 @@
+The F10.7 Index is the index of the radio flux emitted from the sun at the 10.7 cm wavelength, or the 2800 MHz frequency. This critical measurement is necessary for calculations modeling and analyzing orbital lifetime for satellites and spacecraft (2026). F10.7 is also used in predicting solar activity to help prevent ion interference in ground-based technology. 
